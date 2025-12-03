@@ -1,6 +1,6 @@
 const config = {
 
-  API_URL: "http://localhost:5000/api",
+  API_URL: "https://orbit-ai-pj3j.onrender.com",
 
   CLOUDINARY_CLOUD_NAME: "dypvlevrw",
   CLOUDINARY_PRESET: "my_unsigned_preset"
