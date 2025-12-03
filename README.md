@@ -17,6 +17,13 @@ Check out the live application running in production:
 
 ---
 
+📸 Screenshots
+
+Home Screen
+![Home Screen](.client/public/homepage.png)
+
+---
+
 ## ✨ Features
 
 ### 🤖 AI Chat Experience
