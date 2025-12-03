@@ -20,7 +20,7 @@ Check out the live application running in production:
 📸 Screenshots
 
 Home Screen
-![Home Screen](.client/public/homepage.png)
+![Home Screen](./client/public/homepage.png)
 
 ---
 
