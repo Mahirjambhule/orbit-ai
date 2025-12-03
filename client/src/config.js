@@ -1,8 +1,7 @@
 const config = {
-  // Backend API URL (Render)
-  API_URL: "https://orbit-ai-server.onrender.com/api",
 
-  // Cloudinary Settings
+  API_URL: "https://orbit-ai-pj3j.onrender.com",
+
   CLOUDINARY_CLOUD_NAME: "dypvlevrw",
   CLOUDINARY_PRESET: "my_unsigned_preset"
 };
